@@ -9,8 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "date-fns": "^3.3.1",
-    "express": "^4.19.1",
-    "vercel": "^33.7.0"
+    "express": "^4.19.1"
   },
   "description": ""
 }
