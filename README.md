@@ -5,4 +5,8 @@ run-node index.js
 package:
 npm init
 npm i express
+date-fns package
 
+note;
+we are using fs in index.js-so the output are run in local host:8000,
+it not run sometime in render,but we can run output in local host
